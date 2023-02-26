@@ -66,12 +66,12 @@ analytics:
 # Site Author
 author:
   name             : "Àngel García Blàzquez"
-  avatar           : "profile.png"
+  avatar           : "Yo.png"
   bio              : "Phd Student in Mathematics and Programming Enthusiast"
   location         : "Murcia, Spain"
   employer         : "University of Murcia"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "angel.garcia11@um.es"
   researchgate     : "https://www.researchgate.net/profile/Angel-Garcia-Blazquez"
   uri              :
