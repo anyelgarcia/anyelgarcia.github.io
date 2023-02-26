@@ -13,8 +13,8 @@ Bachelor in Science and Technology of Food, University of Murcia, _Murcia, Spain
 _[Mathematics](https://aulavirtual.um.es/umugdocente-tool/htmlprint/guia/RNqJQQDBReSikocwiSwK01xHOlqzpp1YPNjEDeZKA4OweAyBSCM), Course 2021-2022, 1st Semester_  
 Bachelor in Science and Technology of Food, University of Murcia, _Murcia, Spain_
 
-_[Commutative Algebra](https://aulavirtual.um.es/umugdocente-tool/htmlprint/guia/Rug56c1XgorhRPHysDC1xgwEJvUiIlOzTYNbaHIrebc85tpyyZn), Course 2021-2022, 1st Semester_ 
+_[Commutative Algebra](https://aulavirtual.um.es/umugdocente-tool/htmlprint/guia/Rug56c1XgorhRPHysDC1xgwEJvUiIlOzTYNbaHIrebc85tpyyZn), Course 2021-2022, 1st Semester_  
 Bachelor in Mathematics, University of Murcia, _Murcia, Spain_
 
-_[Mathematics](https://aulavirtual.um.es/umugdocente-tool/htmlprint/guia/RPG5IWfHFIefULLvKev7fbB1rJfEINjTN5S2wUuKVVmOf3QY8ad), Course 2020-2021, 1st Semester_ 
+_[Mathematics](https://aulavirtual.um.es/umugdocente-tool/htmlprint/guia/RPG5IWfHFIefULLvKev7fbB1rJfEINjTN5S2wUuKVVmOf3QY8ad), Course 2020-2021, 1st Semester_  
 Bachelor in Chemical Engineering, University of Murcia, _Murcia, Spain_
