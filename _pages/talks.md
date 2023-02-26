@@ -1,5 +1,4 @@
-
---
+---
 layout: archive
 title: "Presentations, Talks and Seminars"
 permalink: /talks/
