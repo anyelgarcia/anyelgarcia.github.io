@@ -1,3 +1,4 @@
+
 --
 layout: archive
 title: "Presentations, Talks and Seminars"
@@ -27,7 +28,7 @@ Groups St Andrews 2022, _Newcastle, UK, July 30th - August 7th 2022_
 _The Isomorphism Problem for Rational Group Algebras of Metacyclic Groups_  
 Nikolauskonferenz 2021, _Aachen, Germany, December 10th - 11th 2021_
 
-_The Isomorphism Problem for Group Rings: Introduction and Chronology _  
+_The Isomorphism Problem for Group Rings: Introduction and Chronology_  
 The Modular Isomorphism Problem in Murcia, _Murcia, Spain, September 6th - 8th, 2021_
 
 _The Isomorphism Problem for Rational Group Algebras of Metacyclic Groups_  
