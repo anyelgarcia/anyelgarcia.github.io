@@ -22,6 +22,9 @@ Algebra Seminar Universidad de Murcia, _Murcia, Spain, June 7th 2021_
 ## Conference talks ##
 
 _The Isomorphism Problem for Rational Group Algebras of Metacyclic Groups_  
+Groups, Rings and the Yang-Baxter equation 2023, _Blankenberge, Belgium, June 19th - 23th 2023_
+
+_The Isomorphism Problem for Rational Group Algebras of Metacyclic Groups_  
 Groups St Andrews 2022, _Newcastle, UK, July 30th - August 7th 2022_
 
 _The Isomorphism Problem for Rational Group Algebras of Metacyclic Groups_  
